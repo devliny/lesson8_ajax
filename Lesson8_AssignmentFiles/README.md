@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+04/12/2017
 
 ### Student Name:  
-(First and Last Name)
+Devlin Yorker
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+To update an application using AJAX elements
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://devliny.github.io/lesson8_ajax/Lesson8_AssignmentFiles/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned what AJAX is and how to utilize it
+2. I learned how to link a web application to other data on the web
+3. I learned how to use javascript to utilize AJAX and JSON
